@@ -18,3 +18,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. note::  This is a **note** box.
